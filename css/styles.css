@@ -158,7 +158,7 @@ h1 {
 }
 
 .ingredient {
-    background: white;
+    background: rgb(128, 124, 124);
     padding: 26px;
     align-self: start;
 }
